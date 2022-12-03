@@ -1,5 +1,5 @@
 #  First Col   #  Second Col
-## A = Rock	   ## X = Rock
+## A = Rock    ## X = Rock
 ## B = Paper   ## Y = Paper
 ## C = Scissor ## Z = Scissor
 
