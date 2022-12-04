@@ -1,5 +1,5 @@
 #  First Col   #  Second Col
-## A = Rock    ## X = Lose
+## A = Rock	   ## X = Lose
 ## B = Paper   ## Y = Draw
 ## C = Scissor ## Z = Win
 
